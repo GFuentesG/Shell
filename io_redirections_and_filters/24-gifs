@@ -1,2 +1,2 @@
 #!/bin/bash
-find . *.git
+find . *.git -printf "%f\n"
