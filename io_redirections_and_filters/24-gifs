@@ -1,3 +1,2 @@
 #!/bin/bash
-find *.git -type f  | sort
-
+find *.git -type f -printf "%f\n"
