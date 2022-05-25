@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -printf %f "\0"  
+find . -empty -printf %f \0  
