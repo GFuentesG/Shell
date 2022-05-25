@@ -1,2 +1,2 @@
 #!/bin/bash
-comando find flag que permite leer directorios y sub directorios 
+find . -type f -print | wc -l 
