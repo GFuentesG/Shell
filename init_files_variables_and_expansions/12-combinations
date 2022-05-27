@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | cut -f 1140-1146
