@@ -4,13 +4,13 @@
 # While Best School loop
 i=1
 
-while [ $i -le 9 ]
+while [ $i -le 10 ]
 do
   echo Best School
   ((i++))
 	if [ $i = 10 ]
         then
-                echo -e "Hi \nBest School"
+                echo -e "Hi"
 
        fi
 done
