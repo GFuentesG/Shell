@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-# While Best School loop
-#!/usr/bin/env bash
-# While Best School loop
+# While If
 i=1
 
 while [ $i -le 10 ]
